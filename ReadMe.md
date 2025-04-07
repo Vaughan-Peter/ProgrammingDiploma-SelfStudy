@@ -10,4 +10,11 @@ Personal preference for Putty setup:
 - Adjust "The Function keys and keypad" under "Keyboard" to Linux. Otherwise, you may get a strange output.
 - Click on "Open" to start the program. 
 
+![PuTTY 1](https://github.com/user-attachments/assets/faaa7bea-e0b8-43be-abb8-0c440b5cbf91)
+
+![PuTTY 2](https://github.com/user-attachments/assets/d86b8f8e-2710-4e24-a89c-5f111f6f518e)
+
+![PuTTY 3](https://github.com/user-attachments/assets/7e1e7400-85c7-4b26-9c0e-23e2db22784d)
+
+
 Other files are connect to the main INO File for a working program.
