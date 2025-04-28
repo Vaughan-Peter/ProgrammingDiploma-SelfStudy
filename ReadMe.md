@@ -1,3 +1,5 @@
+YouTube Demo Videos: https://www.youtube.com/playlist?list=PLQ-1B-UMBFj7BbOCyPhqwsLzQJ6LzSdxZ
+
 Install one pf these program onto the Arduino. There are many concepts to do - larger programs and concepts are easier to split up. The are images to help guide the users in FinalSubmissionPictures_PeterVaughanv folder.
 
 You can use the serial monitor in the Arduino IDE to keep track of the print lines and sent lines to the Arduino. Otherwise, you can use a RS232 attachment and use PuTTy or equivalent. You will need to adjust settings.
